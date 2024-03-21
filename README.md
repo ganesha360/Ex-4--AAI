@@ -1,8 +1,8 @@
-<H3>KANISHKAR M</H3>
-<H3>212222240044</H3>
-<H3>EX. NO.4</H3>
-<H3>DATE:14.03.2024</H3>
-<H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
+## Name : GANESH R
+## Reg No : 212222240029
+## EX NO : 4
+## Date :21.03.2024
+# Implementation of Hidden Markov Model
 
 ## Aim: 
 Construct a Python code to find the sequence of hidden states by the known sequence of observances using Hidden Markov Model. Consider two hidden states Sunny and Rainy with observable states,happy and sad.
